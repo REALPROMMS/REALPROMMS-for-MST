@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Arial'),
+		url(/fonts/ARIAL.TTF);
+}
+
+@font-face {
+	font-family: 'Prata-Regular';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Prata-Regular'),
+		url(/fonts/Prata-Regular.ttf);
+}
