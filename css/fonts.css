@@ -3,7 +3,7 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local('Arial'),
-		url(/fonts/ARIAL.TTF);
+		url(./fonts/ARIAL.TTF);
 }
 
 @font-face {
@@ -11,5 +11,5 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local('Prata-Regular'),
-		url(/fonts/Prata-Regular.ttf);
+		url(./fonts/Prata-Regular.ttf);
 }
