@@ -40,6 +40,6 @@ nextBtn.addEventListener('click', () => {
 })
 
 // Функция автоматического переключения слайдов
-// setInterval(() => {
-// 	showSlide(currentSlide + 1)
-// }, 5000) // 5 секунд
+setInterval(() => {
+	showSlide(currentSlide + 1)
+}, 5000) // 5 секунд
